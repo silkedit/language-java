@@ -1,0 +1,10 @@
+{
+  "name": "language-java",
+  "version": "0.1.0",
+  "description": "Java language support in SilkEdit",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silkedit/language-java.git"
+  },
+  "license": "MIT"
+}
